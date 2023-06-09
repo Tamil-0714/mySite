@@ -141,7 +141,7 @@ hr {
 .list ul {
   width: 90%;
   margin-left: 30px;
-  max-height: 400px;
+  max-height: 340px;
   overflow-y: auto;
 }
 .list ul li {
